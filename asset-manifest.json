@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/livecricketscore/static/css/main.efd1726d.chunk.css",
+    "main.js": "/livecricketscore/static/js/main.02006217.chunk.js",
+    "main.js.map": "/livecricketscore/static/js/main.02006217.chunk.js.map",
+    "runtime-main.js": "/livecricketscore/static/js/runtime-main.84c1f64e.js",
+    "runtime-main.js.map": "/livecricketscore/static/js/runtime-main.84c1f64e.js.map",
+    "static/js/2.fceec080.chunk.js": "/livecricketscore/static/js/2.fceec080.chunk.js",
+    "static/js/2.fceec080.chunk.js.map": "/livecricketscore/static/js/2.fceec080.chunk.js.map",
+    "static/js/3.4c470226.chunk.js": "/livecricketscore/static/js/3.4c470226.chunk.js",
+    "static/js/3.4c470226.chunk.js.map": "/livecricketscore/static/js/3.4c470226.chunk.js.map",
+    "index.html": "/livecricketscore/index.html",
+    "static/css/main.efd1726d.chunk.css.map": "/livecricketscore/static/css/main.efd1726d.chunk.css.map",
+    "static/js/2.fceec080.chunk.js.LICENSE.txt": "/livecricketscore/static/js/2.fceec080.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c1f64e.js",
+    "static/js/2.fceec080.chunk.js",
+    "static/css/main.efd1726d.chunk.css",
+    "static/js/main.02006217.chunk.js"
+  ]
+}
